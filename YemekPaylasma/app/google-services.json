@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078915481912",
+    "project_id": "yemekpaylasma",
+    "storage_bucket": "yemekpaylasma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078915481912:android:cff86d8eb73ebb03e841cd",
+        "android_client_info": {
+          "package_name": "com.example.yemekpaylasma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078915481912-7bd9ojca9s3qg8qtqg7igc6nj8sdg9oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWbmEgCyp_n707XoUdHI-NBN1t1TInzv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078915481912-7bd9ojca9s3qg8qtqg7igc6nj8sdg9oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
